@@ -2,37 +2,37 @@
 title: Network Security
 ---
 
-Day 22 (4/4)
+Day 22 (11/8)
 : Packet Sniffing and Spoofing I
   : SEED Ch. 15
 : Your Daily Phrack: [Packet-Switched Network Security](http://phrack.org/issues/42/4.html#article)
 
-Day 23 (4/6)
+Day 23 (11/13)
 : Packet Sniffing and Spoofing II
   : SEED Ch. 15
 : **Lab**{:.label .label-yellow} [**Packet Sniffing**]({{ site.baseurl }}{% link labs/net-sec/sniffing.md %})
 : Your Daily Phrack: [Blind TCP/IP Hijacking](http://phrack.org/issues/64/13.html)
 
-Day 24 (4/11)
+Day 24 (11/15)
 : TCP Attacks I
   : SEED Ch. 16
 : Your Daily Phrack: [Linux Network Layer](http://phrack.org/issues/55/12.html)
 
 
-Day 25 (4/13)
+Day 25 (11/20)
 : TCP Attacks II
   : SEED Ch. 16
 : **Lab**{:.label .label-yellow} [**TCP Attacks**]({{ site.baseurl }}{% link labs/net-sec/tcp.md %})
 : Your Daily Phrack: [Hacking the Network Stack](http://phrack.org/issues/61/13.html)
 
 
-Day 26 (4/18)
+Day 26 (11/27)
 : Firewalls I
   : SEED Ch. 17
 : Your Daily Phrack: [Breaking through a Firewall](http://phrack.org/issues/63/19.html)
 
 
-Day 27 (4/20)
+Day 27 (11/29)
 : Firewalls II
   : SEED Ch. 17
 : **Lab**{:.label .label-yellow} [**Firewall Lab**]({{ site.baseurl }}{% link labs/net-sec/firewalls.md %})
