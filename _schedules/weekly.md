@@ -27,6 +27,7 @@ schedule:
         location: SB 113
   - name: Tuesday
   - name: Wednesday
+    events:
       - name: Lecture
         start: 3:15 PM
         end: 4:30 PM
