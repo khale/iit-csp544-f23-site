@@ -8,5 +8,5 @@ Day 10 (9/25)
 : **Lab In**{: .label .label-red } **DirtyCOW**
 
 Day 11 (9/27)
-: [Rootkits and Lab Work]
+: [Rootkits and Lab Work](#)
 
