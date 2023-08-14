@@ -20,7 +20,7 @@ Please write your lab report according to the description. Upload your answers a
 - This [video](https://www.youtube.com/watch?v=tZblgb5LYmk) from the SEED author may help
 
 ## Prerequisite Reading
-- SEED Book Chapters 1 and 2
+- SEED Book Chapters 2 and 3
 
 ## Recommended Reading
 - SetUID [checklist](https://seedsecuritylabs.org/Labs_16.04/Software/Environment_Variable_and_SetUID/files/setuid.pdf)
