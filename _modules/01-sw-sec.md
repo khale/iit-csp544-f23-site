@@ -40,3 +40,16 @@ Day 6 (9/11)
 : **Lab Out**{: .label .label-yellow } [**ROP**]({{ site.baseurl }}{% link labs/sw-sec/rop.md %})
 : **Lab In**{: .label .label-red } **Buffer Overflows**
 
+Day 7 (9/13)
+: [ROP and Lab Work]
+
+
+Day 8 (9/18)
+: [DirtyCOW](#)
+  : Required reading: SEED Ch. 8
+: **Lab Out**{: .label .label-yellow } [**DirtyCOW**](#)
+: **Lab In**{: .label .label-red } **ROP**
+
+Day 9 (9/20)
+: [DirtyCOW and Lab Work](#)
+
