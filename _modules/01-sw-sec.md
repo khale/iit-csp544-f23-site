@@ -10,7 +10,7 @@ Day 1 (8/21)
   : **Lab Out**{: .label .label-yellow } [**SetUID and Env. Vars**]({{ site.baseurl }}{% link labs/sw-sec/setuid-envvar.md %})
 
 Day 2 (8/23)
-: [More SetUID and lab work](#)
+: [SetUID and Environment Variables](#)
   : Required reading: SEED Ch. 3
 
 Day 3 (8/28)
