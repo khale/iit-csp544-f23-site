@@ -3,25 +3,3 @@ title: System Security
 ---
 
 
-Day 12 (10/2)
-: [ELF Poisoning is Metal]({{ site.baseurl }}{% link assets/slides/rtld-gotplt.pdf %})
-  : [ELF RTLD internals](https://johntortugo.wordpress.com/2012/08/27/understanding-linux-elf-rtld-internals/)
-: **Lab**{:.label .label-yellow} [**Code Injection and Binary Exploitation**]({{ site.baseurl }}{% link labs/sys-sec/elf-poison.md %})
-: Your Daily Phrack: [Shared library call redirection](http://phrack.org/issues/56/7.html)
-
-Day 13 (10/4)
-: [Exploiting Speculative Execution]({{ site.baseurl}}{% link assets/slides/meltdown.pdf %})
-: Your Daily Phrack: [Hijacking Linux Page Faults](http://phrack.org/issues/61/7.html#article)
-
-Fall Break Day (10/9)
-: **Holiday**{: .label .label-orange } No Class
-
-Day 14 (10/11)
-: Kernel Backdoors and Rootkits
-: **Lab**{:.label .label-yellow} [**Backdoor to the Kernel**]({{ site.baseurl }}{% link labs/sys-sec/rootkits.md %})
-: Your Daily Phrack: [Infecting LKMs](http://phrack.org/issues/61/10.html)
-
-Day 15 (10/16)
-: Dropped Drive Attacks 
-: **Optional Lab**{:.label .label-orange} [**Dropped Drive Attacks**]({{ site.baseurl }}{% link labs/sys-sec/duckies.md %})
-: Your Daily Phrack: [Advances in Kernel Hacking](http://phrack.org/issues/58/6.html)
