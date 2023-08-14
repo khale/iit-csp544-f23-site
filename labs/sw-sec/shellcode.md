@@ -7,7 +7,7 @@ summary: SEED 4
 
 # Lab 2: Shellcode
 
-**Due Date: Monday 1/24/22 before class**
+**Due Date: Monday 9/04/23 before class**
 
 ## Lab Overview
 
@@ -18,7 +18,7 @@ You can find the SEED lab description [here](https://seedsecuritylabs.org/Labs_2
 Please write your lab report according to the description. Upload your answers as a PDF to blackboard. 
 
 ## Prerequisite Reading
-- SEED Book Chapter 4.7
+- SEED Book Chapter 9
 
 ## Acknowledgements 
 Significant content borrowed from [Wenliang Du](https://web.ecs.syr.edu/~wedu/)

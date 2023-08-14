@@ -26,6 +26,11 @@ schedule:
         end: 4:30 PM
         location: SB 113
   - name: Tuesday
+    events:
+      - name: Hale Office Hours
+        start: 8:00 AM
+        end: 9:30 AM
+        location: Zoom
   - name: Wednesday
     events:
       - name: Lecture
@@ -33,5 +38,10 @@ schedule:
         end: 4:30 PM
         location: SB 113 
   - name: Thursday
+    events:
+      - name: Hale Office Hours
+        start: 8:00 AM
+        end: 9:30 AM
+        location: Zoom
   - name: Friday
 ---

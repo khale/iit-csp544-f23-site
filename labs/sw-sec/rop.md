@@ -7,7 +7,7 @@ summary: SEED 5
 
 # Lab 4: ROP and Return-to-libc
 
-**Due Date: Monday 02/07/22 before class**
+**Due Date: Monday 09/18/23 before class**
 
 ## Lab Overview
 
