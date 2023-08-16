@@ -12,9 +12,9 @@ summary: SEED 4
 ## Lab Overview
 
 For this lab, you will use what you learned in the shellcode lab to implement exploits. 
-You can find the SEED lab description [here](https://seedsecuritylabs.org/Labs_20.04/Files/Buffer_Overflow_Server/Buffer_Overflow_Server.pdf). If you've
+You can find the SEED lab description [here](https://seedsecuritylabs.org/Labs_20.04/Files/Buffer_Overflow_Setuid/Buffer_Overflow_Setuid.pdf). If you've
 never used containers before, you may want to see the container manual [here](https://github.com/seed-labs/seed-labs/blob/master/manuals/docker/SEEDManual-Container.md). The
-lab setup files to be used within the VM can be found [here](https://seedsecuritylabs.org/Labs_20.04/Files/Buffer_Overflow_Server/Labsetup.zip).
+lab setup files to be used within the VM can be found [here](https://seedsecuritylabs.org/Labs_20.04/Files/Buffer_Overflow_Setuid/Labsetup.zip).
 
 You will be implementing attacks L1 through L3. L4 is optional. You can use the following numbers for the `Makefile` variables:
 - `L1`: 220
