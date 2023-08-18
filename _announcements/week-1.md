@@ -4,4 +4,4 @@ week: 1
 date: 2023-08-21
 ---
 
-Get [set up](https://seedsecuritylabs.org/lab_env.html) with SEED Labs
+Get [set up](https://seedsecuritylabs.org/labsetup.html) with SEED Labs
