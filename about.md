@@ -73,8 +73,7 @@ attacks) and cryptography.
 - System Security (11 hours)
 
 ## Lecture Sessions
-For the first two weeks of the semester we will be on [Zoom](https://iit-edu.zoom.us/j/86373049435?pwd=aEV5TzlndXdlSlhxQ3dRWGhpQzM3UT09). 
-After that, we'll meet in SB 113 (unless things change). 
+Attendance is required for the lecture sessions. We will meet in SB 113, Mondays and Wednesdays 3:15PM - 4:30PM. 
 
 ## Required Textbook
 [Computer and Internet Security](https://www.amazon.com/Computer-Internet-Security-Hands-Approach/dp/1733003940/ref=sr_1_3?crid=1LS1XDDP4KDPR&keywords=computer+and+internet+security+wenliang+du&qid=1689342027&sprefix=computer+and+internet+s%2Caps%2C95&sr=8-3&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc) by Wenliang Du
@@ -82,9 +81,7 @@ After that, we'll meet in SB 113 (unless things change).
 ## Readings 
 For many lectures, we will be posting required readings on the
 course webpage, from various sources. Be sure to read them! If a reading is
-marked as required, the reading content is fair game for exams. Any readings
-I post that are required will be freely available either from the web or from
-me.
+marked as required, you will likely need it to be able to complete a lab. 
 
 ## Projects
 By far the most important part of this course is the labs. You will learn by
@@ -110,55 +107,29 @@ well / get back into town / start worrying about your Final Grade. Overly
 delayed requests may be denied. Requests made after classes end will be denied.
 
 ### Regrades
-If you think a test or project has been misgraded, then if the TA graded it,
+If you think a lab has been misgraded, then if the TA graded it,
 discuss it with the TA first. If you still think it's been misgraded, discuss
-it with me. Regrade requests must be specific: Don't just ask us to regrade an
+it with the instructor. Regrade requests must be specific: Don't just ask us to regrade an
 entire problem or assignment. Also, you must include your justification for
 a higher grade: Don't just say you think you deserve more points. Regrade
 requests should be timely, else they may be denied. In particular, regrade
 requests made after classes end will be denied.
 
 ## Exams
-There will be only a final, comprehensive exam during the last week of classes (not during finals week). There will be no midterm.
-
-### One Page of Notes
-For the final exam, you can bring one 8.5" x 11" or A4 page of notes (both
-sides; doesn't matter if it's hand-written or printed, etc.) No other notes, no
-sharing notes, no books; no phones, no calculators or other aids or devices.
-
-### Makeup Exams
-If you can't make it to an exam because you're sick or have an emergency, it
-may be possible to get you a makeup exam, but contact me (or have a friend or
-family member contact the instructor) as soon as you can. Overly delayed
-requests may be denied, so don't wait until you get well / get back into town
-/ start worrying about your Final Grade. Requests made after classes end will
-be denied (so be on top of things, since the only exam for this course is
-during the final week!)
-
-Make-up exams are not a guaranteed right, especially if you ask after the exam.
-Barring some urgent reason, you must take tests at the scheduled time (Getting
-a cheaper airline ticket is not considered to be an urgent reason).
-
-### No Re-taking Exams
-If during the test, you feel too ill to finish it, stop and come up and talk to
-me so we can work on rescheduling it — don't turn in the test and then come to
-me later. Similarly, don't turn in the Final if you want a grade of Incomplete.
+There will be no exams for this course. 
 
 
 ## End-of-Semester Score
 The grade break-down for the semester is as follows:
 
-- 70%: Labs and reports
-- 20%: Participation
-- 10%: Final Exam
+- 90%: Labs and reports
+- 10%: Attendance and Participation
 
 All values are scaled to 100 before taking the final sum. 
 
 For internet and India sessions, the grade break-down is:
 
-- 80%: Labs and reports
-- 20%: Final Exam
-
+- 100%: Labs and reports
 
 ## Letter Grade Cutoffs
 - A: 90-100
@@ -208,4 +179,3 @@ Student Health and Wellness Center at student.health@iit.edu or (312)567-7550
 For a comprehensive list of resources regarding counseling services, medical
 assistance, legal assistance and visa and immigration services, you can visit
 the Office of Title IX Compliance [website](https://www.iit.edu/title-ix/resources).
-
