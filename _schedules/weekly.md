@@ -22,6 +22,10 @@ timeline:
 schedule:
   - name: Monday
     events:
+      - name: TA Office Hours (Nanda)
+        start: 1:00 PM
+        end: 2:00 PM
+        location: SB 115
       - name: Lecture
         start: 3:15 PM
         end: 4:30 PM
@@ -34,6 +38,10 @@ schedule:
         location: Zoom
   - name: Wednesday
     events:
+      - name: TA Office Hours (Nanda)
+        start: 1:00 PM
+        end: 2:00 PM
+        location: SB 115
       - name: Lecture
         start: 3:15 PM
         end: 4:30 PM
