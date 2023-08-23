@@ -11,7 +11,7 @@ summary: SEED 2 and 3
 
 ## Lab Overview
 
-For this lab, you will be understanding environment variables and the SetUID bit, how they work, and how they can lead to vulnerabilities. You can find the SEED lab description [here](https://seedsecuritylabs.org/Labs_20.04/Files/Environment_Variable_and_SetUID/Environment_Variable_and_SetUID.pdf).
+For this lab, you will be understanding environment variables and the SetUID bit, how they work, and how they can lead to vulnerabilities. You can find the SEED lab description [here](https://seedsecuritylabs.org/Labs_20.04/Files/Environment_Variable_and_SetUID/Environment_Variable_and_SetUID.pdf). You can find the lab setup files [here](https://seedsecuritylabs.org/Labs_20.04/Files/Environment_Variable_and_SetUID/Labsetup.zip).
 
 ## Handin
 Please write your lab report according to the description. Upload your answers as a PDF to blackboard. 
