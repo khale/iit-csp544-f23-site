@@ -45,11 +45,11 @@ Day 7 (9/13)
 
 
 Day 8 (9/18)
-: [DirtyCOW](#)
-  : Required reading: SEED Ch. 8
-: **Lab Out**{: .label .label-yellow } [**DirtyCOW**](#)
+: [Shellshock](#)
+  : Required reading: SEED Ch. 16
+: **Lab Out**{: .label .label-yellow } [**Shellshock**]({{ site.baseurl }}{% link labs/sw-sec/shellshock.md %})
 : **Lab In**{: .label .label-red } **ROP**
 
 Day 9 (9/20)
-: [DirtyCOW and Lab Work](#)
+: [Shellshock and Lab Work](#)
 
