@@ -9,12 +9,16 @@ summary: SEED 5
 
 **Due Date: Monday 09/18/23 before class**
 
+This time you should do the optional task (Task 5). You should change the value for `N` in the `Makefile` to 256. 
+
 ## Lab Overview
 
 For this lab, you will learn a more advanced exploitation technique called **return-oriented programming (ROP)**. 
 You can find the SEED lab description [here](https://seedsecuritylabs.org/Labs_20.04/Files/Return_to_Libc/Return_to_Libc.pdf).
 The
 lab setup files to be used within the VM can be found [here](https://seedsecuritylabs.org/Labs_20.04/Files/Return_to_Libc/Labsetup.zip).
+
+
 
 
 ## Handin
