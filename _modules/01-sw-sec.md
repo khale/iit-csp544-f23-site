@@ -41,7 +41,8 @@ Day 6 (9/11)
 : **Lab In**{: .label .label-red } **Buffer Overflows**
 
 Day 7 (9/13)
-: [ROP and Lab Work](#)
+: [DirtyCOW](#)
+  : Optional reading: SEED Ch. 8
 
 
 Day 8 (9/18)
