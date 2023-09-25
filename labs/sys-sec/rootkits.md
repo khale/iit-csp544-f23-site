@@ -35,6 +35,10 @@ git clone https://github.com/khale/kernel-rootkit-poc
 ```
 Make sure to go through the `README` in the repo. The SEED VM should have everything necessary to load the rootkit.
 
+**Using your own VM**
+If you have an existing Ubuntu 16.04 VM, or want to set up your own on AWS or some other cloud
+provider, just make sure you `sudo apt install make build-essential`. 
+
 
 ### Task 1: The code
 Understand the code. You should realize that the kernel module's entry point
