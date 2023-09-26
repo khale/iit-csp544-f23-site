@@ -7,7 +7,7 @@ summary: Code Injection and Binary Exploitation
 
 # Extra Credit Lab: ELF Hijacking via PLT/GOT Poisoning 
 
-**Due Date: Before Hale's half of class is over (10/11)
+**Due Date: Before Hale's half of class is over (10/11)**
 
 ## Lab Overview
 Once a system has been compromised, it's often useful for an attacker to leave
