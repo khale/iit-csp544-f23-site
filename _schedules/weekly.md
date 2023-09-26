@@ -53,4 +53,9 @@ schedule:
         end: 9:30 AM
         location: Zoom
   - name: Friday
+    events:
+      - name: TA Office Hours (Conghao)
+        start: 4:00 PM
+        end: 5:00 PM
+        location: SB 113
 ---
