@@ -136,6 +136,7 @@ rootkit. This is your task!
 
 Some hints:
 - You should be able to use the same `seq_file` technique used for the maps file.
+- You will likely need to include the header files `linux/inet.h` and `net/tcp.h`
 - Network sockets are also exposed in `/proc`. You will focus on TCP (IPv4). You will thus need to take a look at `/proc/net/tcp` (or `/proc/self/net/tcp`).
 - You'll want to see the `tcp4_seq_show()` [function](https://elixir.bootlin.com/linux/v4.8/source/net/ipv4/tcp_ipv4.c#L2257).
 - When you override the seq file, you will need to use the `struct inet_sock` [structure](https://elixir.bootlin.com/linux/v4.8/source/include/net/sock.h#L306) (which you can derive from the `v` pointer in your seq handler). Given a `struct sock * sk`, you will need to extract the port number from the socket structure like so: `ntohs(inet_sk(sk)->inet_sport)`.
